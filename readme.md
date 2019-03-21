@@ -14,3 +14,6 @@ The data can be viewed at http://localhost:8444/data
 1. Run `yarn dev` from the frontend directory
 2. Visit http://localhost:3000/ to view the application
 
+### TODO
+  - Styling
+  - Deploy to Digital Ocean
